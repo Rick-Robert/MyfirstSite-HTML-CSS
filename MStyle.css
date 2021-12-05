@@ -1,0 +1,86 @@
+/* Parte de cima "banner" */
+#title{
+ -webkit-text-stroke-width: 3px;
+-webkit-text-stroke-color:rgba(0,0,0,0.4);
+ position: fixed;
+ top: -35px;
+ right: 375px;
+ font-size:100px;
+ color:white;
+ text-align: center;
+ z-index:3;
+ }
+
+
+.rec1{
+ display:inline-block;
+ height:150px;
+ width:100%;
+ background-color:rgba(0,0,0,0.03);
+ position: fixed;
+ top:0px;
+ }
+
+#img{
+ height:150px;
+ width:100%;
+ background-image: url("https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcT4-v85B0GFcnOjTDmtqVcNfrKTacvGrprAgg&usqp=CAU");
+ background-position: -10px 0px;
+ background-size: 400px;
+ position: fixed;
+ top:0px;
+}
+
+/* Textos */
+.p{
+ margin:2.5% 2.5%;
+ font-size:48px;
+ position: absolute;
+ text-align: justify;
+ }
+
+#intro{
+ top:120px;
+ right:300px;}
+#Introtxt{
+ top: 230px;}
+
+#PrpMod{
+ position: absolute;
+ top:1380px;
+ right:200px;
+}
+#PrpModtxt{
+ top:1490px;
+ z-index:-1;}
+
+.topics{
+ color:#00358e;
+ font-size:65px;
+ text-align: center;
+ position: absolute;
+ }
+
+#ingrtxt{
+ margin:2.5% 2.5%;
+ position: absolute;
+ font-size: 50px;
+ top:865px;
+}
+#ingr{
+ top:810px;
+ right:275px;
+}
+
+#line{
+ font-size:50px;}
+
+
+
+
+
+
+
+
+
+

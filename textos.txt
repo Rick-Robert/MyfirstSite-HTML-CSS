@@ -1,0 +1,18 @@
+Esse site é apenas um teste de programação, eu Rick Robert, estou aprendendo HTML e CSS, não sei se vai ser um site de qualidade muito boa mas é de coração; Para testar o site, eu vou mostrar uma receita de pizza que aprendi com meu amigo Dani Ederson, essa receita está disponível no canal dele e talvez no final deste site.
+
+Para 3 pizzas médias
+1kg de farinha de trigo
+500ml de leite morno
+1 sachê de fermento em pó biológico
+2 colheres de margarina (ou manteiga)
+2 colheres de açúcar
+1 colher rasa de sal
+Recheio a gosto
+
+Colocar os 500ml de leite morno (o leite precisa ser morno para não matar os microorganismos que estão no fermento biológico e que darão o crescimento a massa) em uma travessa grande, logo após adicione 2 colheres de margarina (ou manteiga), o fermento biológico e as 2 colheres de açúcar, mexa até dissolver um pouco, depois, adicione um pouco de farinha e 1 colher rasa de sal, misture enquanto adiciona farinha aos poucos até atingir uma consistência que grude pouco na mão uma consistência de massa de pão) [sim, apartir do momento que a massa ficar mais firme você tera que por a mão na massa, literalmente]; 
+<br>
+Após atingir a firmeza de massa de pão unte a mesa com farinha de trigo e faça "massagem" na massa (a esticando e juntando varias vezes) durante uns 15 minutos, depois volte ela á travessa e a deixe descansar por cerca de 40 minutos (em lugar aquecido mas não a ponto de assar a massa);
+<br>
+Depois do descanso, divida a massa em três partes iguais, e usando um rolo de massa (ou as mãos) abra elas até ter a espessura desejada, pegue a da massa e a enrole para dentro para formar a borda da pizza;
+<br>
+Por último, coloque o recheio que você quiser, coloque a pizza no recipiente que irá ao forno, leve até o forno e asse até dourar (em torno de 30-40 minutos).
